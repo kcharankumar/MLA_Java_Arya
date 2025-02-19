@@ -1,0 +1,95 @@
+Spring Core
+1. What is spring core.
+2. What is dependency Injection.  
+3. What are the different types of dependency injection.
+4. What is @AutoWired.  How to use it.
+5. What is IOC contaier.  
+6. How the beans are created, managed and destroyed in Spring IOC Container.
+7. GO through the programs of Sprign COre.
+8. What is a spring bean
+9. What are the bean scopes.
+10. What is singleton bean and prototype bean.
+
+Spring Boot
+1. What is Spring Boot.
+2. What facilities Spring boot will provide.
+3. What is the difference between Sprign Boot and Spring REST and SPring MVC.
+4. What is the benefit of pom.xml in maven?
+5. What is Maven
+6. What benefit we get from Maven.
+7. What are the depenendecies you provide in pom.xml for web based programming.  What is actuator and what is dev-tools.
+
+ 
+Spring MVC
+1. What is Spring MVC
+2. What does MVC Stands for.
+3. What is the architecture of Spring MVC and what is the role of each coponent.
+4. How do you create spring MVC project.
+5. How do you send the data from controller to JSP.
+6. How to do you send data from jsp to Controller.  ALso look at how to send an object from JSP to Spring COntroller.
+
+Spring REST
+1. What does REST stands for.
+1a. What are the different HTTP Methods.
+2. What is the difference between Spring REST and Spring MVC.
+2a. What is the difference between @Controller and @RestController.
+3. What can you do in Spring REST and what can you do in SPring REST.
+4. What are the different mappings @GetMapping, @PostMapping, @PutMapping, @DeleteMapping, @RequestParam, @PathVariable and @RequestBody.
+5. What is @COntroller and @RestController.
+6. What is the use of application.properties.
+7. How do you send the data to a controller using @PostMapping.  How do you give the data in PostMan in @PostMapping.
+8. How do you send parameters to DeleteMapping with @PathVariable.
+9. What are the different ways of sending the data to controller using URL or through postman.
+
+
+Spring JPA.
+1. What is Spring JPA.
+2. What is ORM.
+3. How do you connect Spring JPA to the database.  What options you provide in application.properties for spring JPA and what is the meaning of each option.
+4. What is dialect.
+5. what is hbm2ddl and show-sql optoin in application.properties file.
+6. What is a repository.
+7. What is the difference between CRUDRepository, PagingAndSortingRepository and JPARepository.
+8. What are the functions in Spring JPA for CRUD operations.
+9. How do you test Spring JPA CRUD operations with postman.
+
+Spring Microservices
+1. What is a microservice?
+2. What is the difference between Monolithic application and micro services application.
+3. What is a Eureka Server and what is the purpose of it?
+4. How do you create eureka server and client and how to do you test it?
+5. What is load balancer? What is the benefit of load balancer
+6. What is a config server.  What benefit we get from Config server.
+
+Docker
+1. What is containerization vs Virtualization.
+2. Look at all the commands of docker shown in the class
+3. What is dockerfile.
+4. what is docker compose.  What is the benefit of it.
+5. What is the difference between docker kill and docker stop.
+6. what is docker exec.
+
+Kubernetes
+1. What is pod, service, replicast, deployment and hpa.
+2. All the kubectl commands shared in the file today.
+3. What is HPA and what is the benefit of it.
+4. What is a replica set, what does it do and what benefit we get from replica set.
+5. What are the different services given by kubernetes services.  What each service will do.
+6. What is the difference between replicaset and deployment?
+7. What is the difference between manual scaler and auto scaler and how do you do manual scaling and auto scaling.
+
+
+Advanced Java  
+1. What is Junit?
+2. What can we perform in JUnit.
+3. What is @Test, @Before, @After, @BeforeClass and @Afterclass.
+4. What is a suite.  
+5. What is singleton design pattern. Where it is used.
+6. What is lambda function.  What are the benefits of it?
+7. What is method referencing?
+8. What is JDBC?
+9. What do you connect Java with database.
+10. What is a database driver.
+11. What is the difference between statement and preparedstatement.
+12. How do you call a stored procedure in Jdbc.
+13. How do you perform CRUD operations in JDBC.

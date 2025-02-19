@@ -1,0 +1,131 @@
+Viva Questions.
+
+React
+++++++
+Every question you need to answer with minimum 3 to 5 sentences and you should be ready to write the code for every question.
+1. What is react.
+2. What are the benefits of React.
+3. What is JSX.
+4. What one one way data binding in react.
+5. How do you handle event handling in react.
+6. What are functional components.
+7. What is the difference between Class components and Functional components.
+8. What does return() do in react.
+9. How do you handle forms in react. 
+10. How do you validate Login form with validation in react.
+11. What libraries are there in react to do a form validation.
+12. WHat are hooks.
+13. Name at least 10 hooks and explain what is the functionality of them.
+14. What is redux.  HOw does it work and what is the difference between redux and useReducer.
+15. How do you call REST Api from React.
+16. What does axios do and what are the methods of it.
+17. How do you handle/display lists/array of objects in react.  
+18. What is a map in react and keys in maps.
+19. What is Virtual DOM and what is the benefit of it.
+20. What are props in react.
+21. How do you handle routing in react.
+
+Angular
++++++++
+1. Which version of Angular you are using.  Which command is used to check the version of Angular.
+2. How to start the server in angular.
+3. In which port angular will start its server by default.
+4. Name few ng commands.
+5. When ng new is given, by default what are files which are generated and what is the use of it.
+6. what is ts file.
+7. What is a component.
+8. What are the decorators and which decorators are there in Angular.
+9. What is the purpose of app.module.ts
+10. What is one way data binding, two way data binding, property binding and event binding.
+11. What is a directive and name all the directives of Angular (ngIf, ngFor, ngSwitch, ngClass and ngStyle).
+12. How do you make custom directive in Angular.
+13. What is a pipe.
+14. What are the different pipes of Angular and their significance of it (upper, lower...etc like this).
+15. How do you make a custom pipe in Angular.
+16. How is Template driven forms and reactive forms.  What is the difference between them and when do we choose them.
+17. What is routing and how do you handle routing.  
+18. What is the use of app-routing.module.ts
+19. What is <router-outlet>
+20. What is spa and what benefits we get from SPA (SPA --> Single Page Application).
+21. What are the different router commands are there in Angular.  
+22. What are router guard.  (canActivate, canActivateChild etc.,)
+23. What is rxJS (Reactive Extension for Java Script)
+24. What are the different steps which needs to be performed to connect with the backend.
+25. How do you perform CRUD operations and get the data from the backend.
+ 
+
+
+
+
+Spring
++++++++
+1. Which version Java you have used?
+2. What is Object Oriented Programming.
+3. What are the other features of OOAD.  1. Encapsulation 2. Polymorphism - Static and Runtime polymorphism. 3. Data Hiding 	4. Inheritance.
+3a. What is a Class and Object.
+3b. What is a constructor.
+3c. What is function overloading.
+3d. What is function overriding.
+3e. What is the difference between function overloading and function overriding.
+3f. What is an abstract class.
+3g. What is an interface.
+3h. What s the difference between Abstract class and interface.
+3i. What is static attribute, method and block.
+3j. What is final variable.
+3k. What is an annotation and what annotations you have used in java.
+3l. What is the difference between String class and StringBuffer. 
+3m. What is a marker interface. What benefit we get from it. 
+4. What is Multi threading.  
+5. What is synchronization.
+6. What is exception handling.
+7. What is try, catch and finally block.
+8. What is the difference between throw and throws.
+9. What is checked exception and unchecked exception.
+10. What is garbage collector.
+11. What does system.gc() does.
+12. What is finalize().
+13. What is a collection class.
+14. What are the different collection classes in Java.
+15. What is the significance of ArrayList.
+16. What is HashSet and TreeSet.  What is the difference between them.
+17. What is hashMap.  What benefit we get from hashMap.
+18. How do you remove duplicate records in hashSet.
+19. What is Comparable and Comparator in Java. When do we use them.
+20. What is Synchornized HashMap and Concurrency HashMap.
+21. What is IOC.
+22. What is Dependency Injection. 
+23. What are the different types of DI.
+24. What is @Autowired.
+25. What are the Singleton in Spring Core.
+26. What is the fullform MVC.
+27. What is the Spring REST.
+28. What does REST stand for.
+29. How do you handle http methods (get, put, post, delete) in Spring REST.
+30. What is spring boot.
+31. Whare the benefits of Spring Boot.
+32. What is dependency management in spring Boot.
+33. Explain all the sections of POM.xml in spring boot. 
+34. What is actuator, devtools and starter web in spring boot.  Why do we need to use them.
+35. What is ORM.
+36. How ORM and SPring JPA is connected.
+37. What is a dialect in Spring JPA.
+38. How do you write Native queries and JPQL in Spring JPA.
+39. What are the different options of hibernate.hbm2ddl in spring JPA.
+40. What are the different functions of Spring JPA to perform CRUD operations.
+41. What is a repository in Spring JPA.
+42. What is CRUDRepository, PagingAndSortingRepository and JPARepository.
+43. What is the difference between above repositories.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
